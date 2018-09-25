@@ -1,0 +1,19 @@
+/* Clearfix */
+.clearfix::after {
+	content: "";
+	display: block;
+	clear: both;
+	overflow: auto;
+}
+
+.block {
+	display: inline-block;
+	width: 100%;
+}
+
+body {
+	background: url("../images/Background.jpg");
+	color: white;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: 700px;
+}
