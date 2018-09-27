@@ -11,7 +11,7 @@ This basic RPG is where you select a character and fight the remaining character
 
 
 
-![Character Select Image](/assets/images/readme/Beginning.png)
+![Character Select Image](./assets/images/readme/Beginning.png)
 
 ### **Directions:**
 The game begins when you choose which character to be your fighter.
